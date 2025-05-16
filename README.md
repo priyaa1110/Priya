@@ -32,9 +32,6 @@ const Priya = {
 <p align="center">
   <a href="https://github.com/priyaa1110">
     <img alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyaa1110&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
-   [![trophy](https://github-profile-trophy.vercel.app/?username=priyaa1110&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
   </a>
 
   <a href="https://github.com/priyaa1110">
