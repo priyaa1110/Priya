@@ -43,6 +43,6 @@ const Priya = {
 
 
 
-[![Priya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzy1110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/itzy1110/github-readme-activity-graph)
+[![Priya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzy1110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/priyaa1110/github-readme-activity-graph)
 <h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{itzy1110}/count.svg/" alt="itzy1110 Visitor's count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{priyaa1110}/count.svg/" alt="priyaa1110 Visitor's count" /></p>
