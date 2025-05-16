@@ -25,7 +25,7 @@ const Priya = {
 
 <p align="center">
 <a href="https://github.com/itzy1110">
-    <img src="https://github-readme-stats.vercel.app/api?username=itzy1110&show_icons=true&theme=react" alt="Priya's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=priyaa1110&show_icons=true&theme=react" alt="Priya's GitHub stats" />
   </a>
 </p>
 
