@@ -30,8 +30,8 @@ const Priya = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/aditii2712">
-    <img alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzy1110&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
+  <a href="https://github.com/priyaa1110">
+    <img alt="Priya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyaa1110&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
   </a>
 
   <a href="https://github.com/priyaa1110">
@@ -43,6 +43,6 @@ const Priya = {
 
 
 
-[![Priya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzy1110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/priyaa1110/github-readme-activity-graph)
+[![Priya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyaa1110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/priyaa1110/github-readme-activity-graph)
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{priyaa1110}/count.svg/" alt="priyaa1110 Visitor's count" /></p>
